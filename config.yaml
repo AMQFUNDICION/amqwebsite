@@ -1,49 +1,65 @@
-baseURL: https://www.example.com/
+baseURL: https://amqfundicion.netlify.app/
 languageCode: en-us
-title: Hugo Hero Theme
+title: AMQ FUNDICION
+themesDir: themes
 theme: hugo-hero-theme
 module:
   hugoVersion:
     extended: yes
     min: 0.92.0
+
+
 params:
-  google_analytics_id: ''
   homepage_meta_tags:
-    meta_description: Hero is a multipurpose Hugo theme with fullscreen hero images
-      and page sections. It contains content types for a business or portfolio site.
-    meta_og_description: Hero is a multipurpose Hugo theme with fullscreen hero images
-      and page sections. It contains content types for a business or portfolio site.
-    meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
-    meta_og_title: Hugo Hero Theme
+    meta_description: a description of your website.
+    meta_og_title: My Theme
     meta_og_type: website
-    meta_og_url: https://hugo-hero.netlify.app
+    meta_og_url: 'https://www.mywebsite.com'
+    meta_og_image: 'https://www.mywebsite.com/images/tn.png'
+    meta_og_description: a description of your website.
     meta_twitter_card: summary
-    meta_twitter_creator: '@zerostaticio'
-    meta_twitter_site: '@zerostaticio'
+    meta_twitter_site: '@mytwitterhandle'
+    meta_twitter_creator: '@mytwitterhandle'
+params:
+  homepage_meta_tags:
+    meta_description: a description of your website.
+    meta_og_title: My Theme
+    meta_og_type: website
+    meta_og_url: 'https://www.mywebsite.com'
+    meta_og_image: 'https://www.mywebsite.com/images/tn.png'
+    meta_og_description: a description of your website.
+    meta_twitter_card: summary
+    meta_twitter_site: '@mytwitterhandle'
+    meta_twitter_creator: '@mytwitterhandle'
+
+
+ 
+  
   logo:
-    alt: Hugo Hero
-    desktop: images/logo.svg
+    alt: AMQ 
+    desktop: LOGO AMQ.ico
     desktop_height: 29px
     desktop_width: 217px
     mobile: images/logo-mobile.svg
     mobile_height: 36px
     mobile_width: 36px
+    
 menu:
   main:
-    - name: Services
-      url: /services/
+    - name: Misión 
+      url: /Misión/
       weight: 1
-    - name: Work
-      url: /work/
+    - name: Visión
+      url: /Visión/
       weight: 2
-    - name: About
-      url: /about/
+    - name: Valores
+      url: /Valores /
       weight: 3
-    - name: History
-      url: /history/
+    - name: Aleaciones
+      url: /Aleaciones /
       weight: 3
-    - name: Contact
-      url: /contact/
+    - name: Contacto
+      url: /Contacto/
       weight: 4
 permalinks:
   pages: /:filename/

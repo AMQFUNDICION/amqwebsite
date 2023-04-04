@@ -1,9 +1,9 @@
-.hero-image {
+ .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
   // background-position: top center;
   background-blend-mode: overlay;
-  background-color: $primary;
+  background-color: #2f4f4f;
   height: 400px;
   position: relative;
   padding-top: 60px;
@@ -13,6 +13,8 @@
     justify-content: center;
     flex-direction: column;
   }
+    
+   
   .row {
     height: inherit;
   }
