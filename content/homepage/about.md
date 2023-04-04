@@ -1,9 +1,7 @@
 ---
-title: 'Our Difference'
+title: 'Sobre nosotros'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'Nuestras aleaaciones'
 buttonLink: 'about'
 ---
-
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
