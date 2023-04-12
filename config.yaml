@@ -6,26 +6,19 @@ module:
   hugoVersion:
     extended: yes
     min: 0.92.0
+
 params:
-  homepage_meta_tags:
-    meta_description: a description of your website.
-    meta_og_title: My Theme
-    meta_og_type: website
-    meta_og_url: 'https://www.mywebsite.com'
-    meta_og_image: 'https://www.mywebsite.com/images/tn.png'
-    meta_og_description: a description of your website.
-    meta_twitter_card: summary
-    meta_twitter_site: '@mytwitterhandle'
-    meta_twitter_creator: '@mytwitterhandle'
-  logo:
-    alt: AMQ 
-    desktop: LOGO AMQ.ico
+    google_analytics_id: ""
+    logo:
+          alt: AMQ 
+          desktop: LOGO AMQ.ico
     desktop_height: 29px
     desktop_width: 217px
     mobile: images/logo-mobile.svg
     mobile_height: 36px
     mobile_width: 36px
     
+
 menu:
   main:
     - name: Misión 
