@@ -6000,7 +6000,8 @@ ul.social {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
-  background-color: #1c3ed3;
+  background-image: url("static/banner2.png");
+  background-color: #212F3C;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6044,6 +6045,7 @@ ul.social {
     font-weight: normal; }
 
 .hero-image-fullscreen {
+  background-image: url("static/banner2.png");
   height: 100vh; }
 
 .hero-image-setheight {

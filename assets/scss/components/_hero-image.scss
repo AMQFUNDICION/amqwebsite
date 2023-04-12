@@ -3,7 +3,8 @@
   background-repeat: no-repeat;
   // background-position: top center;
   background-blend-mode: overlay;
-  background-color: $primary;
+  background-image: url("static/banner2.png");
+    background-color: #212F3C ;
   height: 400px;
   position: relative;
   padding-top: 60px;
@@ -56,6 +57,7 @@
   }
 }
 .hero-image-fullscreen {
+  background-image: url("static/banner2.png");
   height: 100vh;
 }
 .hero-image-setheight {
