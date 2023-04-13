@@ -16,21 +16,21 @@
         font-weight: regular;
         text-transform: uppercase;
         text-decoration: none;
-        color: $primary;
+        color:#F39C12 ;
         &:hover {
-          background: $primary;
-          color: #ffffff;
+          background: $secondary;
+          color:#F1C40F;
           text-decoration: none;
         }
       }
       &.active {
         > a {
-          background: $primary;
+          background: $primary ;
           text-decoration: none;
-          color: #ffffff;
+          color: #F39C12 ;
           &:hover {
             text-decoration: none;
-            background: $primary;
+            background: #F39C12 ;
             transition: all 225ms ease-in 0s;
             color: #ffffff;
           }

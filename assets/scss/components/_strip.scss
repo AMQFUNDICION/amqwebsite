@@ -5,7 +5,7 @@
   background-color: white;
 }
 .strip-grey {
-  background-color: #f4f5fb;
+  background-color: #dcdcdc;
 }
 .strip-diagonal {
   transform: skewY(5deg);
@@ -22,10 +22,10 @@
   background-image: linear-gradient(to bottom, $primary, $secondary);
 }
 .strip-primary {
-  background-color: $primary;
+  background-color: #dcdcdc;
 }
 .strip-secondary {
-  background-color: $secondary;
+  background-color: #dcdcdc;
 }
 
 .strip-diagonal-right {
