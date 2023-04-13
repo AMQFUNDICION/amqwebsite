@@ -5435,8 +5435,8 @@ ol {
     flex: 1; }
 
 .header {
-  color: #1c3ed3;
-  background-color: #ffffff;
+  color: #F39C12;
+  background-color: #E5E8E8;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -5770,8 +5770,8 @@ ul.social {
 
 .title-1 {
   color: #1c3ed3;
-  font-size: 2.4rem;
-  line-height: 1.2;
+  font-size: 2.8 rem;
+  line-height: 1.5;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system; }
   @media (min-width: 768px) {
     .title-1 {
@@ -5783,7 +5783,7 @@ ul.social {
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
   font-weight: light;
   color: #333333;
-  font-size: 2.4rem; }
+  font-size: 2.7rem; }
   @media (min-width: 768px) {
     .title-2 {
       font-size: 4rem; } }
@@ -5824,8 +5824,7 @@ ul.social {
 .content h1 {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
   line-height: 1.2;
-  font-weight: 300;
-  color: #333333; }
+  font-weight: #F39C12; }
   @media (min-width: 768px) {
     .content h1 {
       line-height: 1.2;
@@ -5834,7 +5833,7 @@ ul.social {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
   line-height: 1.4;
   font-weight: 400;
-  color: #333333; }
+  color: #F39C12; }
   @media (min-width: 768px) {
     .content h2 {
       line-height: 1.4; } }
@@ -6045,7 +6044,6 @@ ul.social {
     font-weight: normal; }
 
 .hero-image-fullscreen {
-  background-image: url("static/banner2.png");
   height: 100vh; }
 
 .hero-image-setheight {
@@ -6129,13 +6127,13 @@ html {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
     .work-summary .work-content p {
-      color: #666;
+      color: #F39C12;
       font-size: 0.9rem; }
 
 .page-work-single h1.title {
   font-size: 3rem;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
-  color: #1c3ed3; }
+  color: #E5E8E8; }
 
 .page-work-single .work-image img {
   width: 100%;
@@ -6154,7 +6152,7 @@ html {
 
 .page-work-single .item {
   /* Masonry bricks or child elements */
-  background-color: #eee;
+  background-color: #E5E8E8;
   margin: 0 0 1em; }
 
 /*# sourceMappingURL=style.css.map */

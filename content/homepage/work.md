@@ -1,9 +1,10 @@
 ---
-title: 'We Help Business Grow'
+title: '¿QUIÉNES SOMOS?'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+background: 'images/ban2.jpg'
+button: 'Diagrama de procesos'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+AMQ Fundición, es una empresa 100% mexicana, fundada en el año 2020 por el Ing. Orvid Rodríguez Vargas, dedicada a la fabricación de aleaciones de aluminio en presentación de lingote. 
+Actualmente contamos con una capacidad de producción de 120 toneladas mensuales, y nos encontramos en espera de incrementar dicha producción, de igual manera nos encontramos en implementación para certificarnos en la NOM ISO 9001. 

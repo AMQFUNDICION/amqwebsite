@@ -17,7 +17,6 @@ params:
     mobile: images/logo-mobile.svg
     mobile_height: 36px
     mobile_width: 36px
-    
 
 menu:
   main:
@@ -34,7 +33,7 @@ menu:
       url: /Aleaciones /
       weight: 3
     - name: Contacto
-      url: /Contacto/
+      url: /contacto/
       weight: 4
 permalinks:
   pages: /:filename/
