@@ -5866,7 +5866,7 @@ ul.social {
       padding-top: 200px;
       padding-bottom: 100px; } }
   .intro h1 {
-    color: #283747;
+    color: #E5E8E8;
     font-size: 2.4rem;
     line-height: 1.2;
     font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -5887,7 +5887,7 @@ ul.social {
     font-size: 1.2rem;
     font-weight: light;
     line-height: 1.5;
-    color: #43454d; }
+    color: #E5E8E8; }
     @media (min-width: 576px) {
       .intro p {
         width: 70%; } }
@@ -6122,13 +6122,13 @@ html {
   .work-summary .work-content {
     flex: 1;
     padding: 20px;
-    border-bottom: 2px solid #1c3ed3; }
+    border-bottom: 2px solid #E5E8E8; }
     .work-summary .work-content .work-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
     .work-summary .work-content p {
-      color: #F39C12;
-      font-size: 0.9rem; }
+      color: #E5E8E8;
+      font-size: 1 rem; }
 
 .page-work-single h1.title {
   font-size: 3rem;
@@ -6142,7 +6142,7 @@ html {
 .page-work-single .content > p:first-of-type {
   font-size: 24px;
   line-height: 32px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   font-weight: 300; }
 
 .page-work-single .masonry {
