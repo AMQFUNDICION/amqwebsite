@@ -5749,7 +5749,7 @@ ul.social {
   white-space: nowrap;
   display: inline-block;
   padding: 7px 15px;
-  background: #1c3ed3;
+  background: #2E4053;
   font-size: 15px;
   font-weight: 600;
   text-transform: uppercase;
@@ -5760,7 +5760,7 @@ ul.social {
   transition: all 0.15s ease; }
   .button:hover {
     color: #fff;
-    background-color: #3d5ce5;
+    background-color: #758699;
     text-decoration: none; }
 
 .button-white {
@@ -5818,7 +5818,7 @@ ul.social {
   text-decoration: underline; }
 
 .content p {
-  color: #4e4e4e;
+  color: #4e6d6d;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system; }
 
 .content h1 {
@@ -5838,7 +5838,7 @@ ul.social {
     .content h2 {
       line-height: 1.4; } }
 .content h3 {
-  color: #1c3ed3;
+  color: #DC7633;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -5961,7 +5961,7 @@ ul.social {
 
 .feature {
   height: 100%;
-  border: 2px solid #eaeaea;
+  border: 2px solid #DC7633;
   padding: 20px;
   background-color: #ffffff;
   display: flex;
