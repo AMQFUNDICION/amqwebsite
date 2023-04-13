@@ -5777,12 +5777,12 @@ ul.social {
     .title-1 {
       font-size: 3rem; } }
   .title-1.black {
-    color: #E5E8E8; }
+    color: #34495E; }
 
 .title-2 {
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
   font-weight: light;
-  color: #E5E8E8;
+  color: #34495E;
   font-size: 2.7rem; }
   @media (min-width: 768px) {
     .title-2 {

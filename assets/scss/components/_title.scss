@@ -7,13 +7,13 @@
     font-size: 3rem;
   }
   &.black {
-    color: #E5E8E8 ;
+    color: #34495E ;
   }
 }
 .title-2 {
   font-family: $font-family-base;
   font-weight: light;
-  color: #E5E8E8;
+  color: #34495E;
   font-size: 2.7rem;
   @include media-breakpoint-up(md) {
     font-size: 4rem;

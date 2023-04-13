@@ -21,16 +21,16 @@ params:
 menu:
   main:
     - name: Misión 
-      url: /work/
+      url: /mision/
       weight: 1
     - name: Visión
-      url: /Visión/
+      url: /post/
       weight: 2
     - name: Valores
-      url: /pages /
+      url: /pages/
       weight: 3
     - name: Aleaciones
-      url: /services /
+      url: /services/
       weight: 3
     - name: Contacto
       url: /contacto/
