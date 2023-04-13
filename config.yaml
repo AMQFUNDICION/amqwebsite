@@ -20,7 +20,7 @@ params:
 
 menu:
   main:
-    - name: Misión 
+    - name: Misión y Visión
       url: /mision/
       weight: 1
     - name: Visión
