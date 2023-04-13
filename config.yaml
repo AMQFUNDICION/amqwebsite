@@ -23,9 +23,6 @@ menu:
     - name: Misión y Visión
       url: /mision/
       weight: 1
-    - name: Visión
-      url: /post/
-      weight: 2
     - name: Valores
       url: /pages/
       weight: 3
