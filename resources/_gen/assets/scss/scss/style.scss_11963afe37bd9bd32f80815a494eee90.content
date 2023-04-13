@@ -6133,10 +6133,10 @@ html {
 .page-work-single h1.title {
   font-size: 3rem;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
-  color: #34495E; }
+  color: #fff; }
 
 .page-work-single .work-image img {
-  width: 100%;
+  width: 20%;
   height: auto;
   opacity: 1; }
 
