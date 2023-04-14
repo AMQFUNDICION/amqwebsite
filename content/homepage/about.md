@@ -2,6 +2,6 @@
 title: 'Sobre nosotros'
 weight: 2
 background: ''
-button: 'Nuestras aleaaciones'
+button: 'Nuestras aleaciones'
 buttonLink: 'about'
 ---
