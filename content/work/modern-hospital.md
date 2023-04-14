@@ -4,6 +4,7 @@ draft: false
 heroBackground: images/am.jpeg
 heroHeading: DIAGRAMA DE PROCESOS AMQ 
 title: Diagrama de procesos 
+thumbnail: images/am.jpeg
 weight: 2
 ---
 
