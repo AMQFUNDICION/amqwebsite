@@ -6,8 +6,8 @@ heroBackground: services/service2.jpg
 heroHeading: Mergers & Acquisitions
 heroSubHeading: Thinking of acquiring another business? Let us guide you through the
   process.
-icon: services/service-icon-4.png
-title: Mergers
+icon: services/2.png
+title: Dirección 
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

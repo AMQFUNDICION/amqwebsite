@@ -26,7 +26,7 @@ menu:
     - name: Valores
       url: /pages/
       weight: 3
-    - name: Aleaciones
+    - name: Aleaciones 
       url: /services/
       weight: 4
     - name: Contacto
