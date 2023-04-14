@@ -8,7 +8,7 @@ title: Diagrama de procesos
 weight: 2
 ---
 
-Conoce el proceso de fundición de aluminio paso a paso.
+Conoce nuestro proceso de fundición de aluminio paso a paso.
 
 ![![](/images/DP2.png)](/images/DP1.png)
 
