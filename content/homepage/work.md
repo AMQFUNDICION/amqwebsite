@@ -2,7 +2,7 @@
 title: '¿QUIÉNES SOMOS?'
 weight: 1
 background: ''
-button: 'Diagrama de procesos'
+button: 'Conocenos'
 buttonLink: 'work'
 ---
 
