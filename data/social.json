@@ -1,12 +1,12 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "social/github.svg"
+        "name": "WhatsApp",
+        "link": "https://api.whatsapp.com/send?phone=+4461218361&text=AMQ%20fundicion%20a%20sus%20%C3%B3rdenes",
+        "image": "images/w.png"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "social/twitter.svg"
+        "name": "facebook",
+        "link": "https://m.facebook.com/people/Aleaciones-Met%C3%A1licas-De-Queretaro/100079635270625/",
+        "image": "images/F.png"
     }
 ]
