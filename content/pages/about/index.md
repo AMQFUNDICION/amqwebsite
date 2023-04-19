@@ -1,8 +1,8 @@
 ---
 date: "2018-12-06T09:29:16+10:00"
-heroBackground: https://source.unsplash.com/sO-JmQj95ec/1600x1000
+heroBackground: https://view.genial.ly/643f2a1874563a00119b2bb6/interactive-image-imagen-interactiva
 heroHeading: About Us
-heroSubHeading: Established in 1985, we're a team of advisors that puts your business
+heroSubHeading: 
   first.
 layout: about
 title: About
@@ -11,9 +11,4 @@ title: About
 <div>
 {{< content-strip-left "/pages/about" "content1" >}}
 </div>
-<div>
-{{< content-strip-right "/pages/about" "content2" >}}
-</div>
-<div>
-{{< content-strip-center "/pages/about" "content3" >}}
-</div>
+
