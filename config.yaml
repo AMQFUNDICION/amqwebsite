@@ -24,7 +24,7 @@ menu:
       url: /mision/
       weight: 1
     - name: Valores
-      url: /pages/
+      url: /post/
       weight: 3
     - name: Aleaciones 
       url: /services/
