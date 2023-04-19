@@ -13,7 +13,7 @@ A continuación se muestra la composición química de nuestras aleaciones princ
 
 ![](/images/aleaciones.jpeg)
 
-## CARACTERÍSTICAS DEL EMPAQUE 
+## CARACTERÍSTICAS DEL EMPAQUE
 
 ![](/images/empaque.png)
 
