@@ -1,7 +1,7 @@
 [
     {
         "name": "WhatsApp",
-        "link": "https://wa.link/q748dm",
+        "link": "https://api.whatsapp.com/send?phone=524461218361"
         "image": "images/w.png"
     },
     {
