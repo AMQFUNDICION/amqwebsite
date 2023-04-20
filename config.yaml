@@ -1,6 +1,7 @@
 baseURL: https://amqfundicion.netlify.app/
 languageCode: en-us
 title: AMQ FUNDICION
+author: Perla Rodríguez 
 theme: hugo-hero-theme
 module:
   hugoVersion:
