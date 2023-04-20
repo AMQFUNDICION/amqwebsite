@@ -1,7 +1,6 @@
 baseURL: https://amqfundicion.netlify.app/
 languageCode: en-us
 title: AMQ FUNDICION
-author: Perla Rodríguez 
 theme: hugo-hero-theme
 module:
   hugoVersion:
@@ -15,10 +14,16 @@ params:
           desktop: LOGO AMQ.ico
     desktop_height: 29px
     desktop_width: 217px
-    mobile: q.png
+    mobile: images/q.png
     mobile_height: 48px
     mobile_width: 48px
-
+homepage_meta_tags:
+    meta_og_title: AMQ 
+    meta_og_type: website
+    meta_og_url: 'https://amqfundicion.netlify.app/'
+    meta_og_image: >-
+      https://github.com/AMQFUNDICION/amqwebsite/blob/main/static/q.png
+   
 menu:
   main:
     - name: Misión y Visión
