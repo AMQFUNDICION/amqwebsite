@@ -14,7 +14,7 @@ params:
           desktop: LOGO AMQ.ico
     desktop_height: 29px
     desktop_width: 217px
-    mobile: images/q.png
+    mobile: images/LOGO AMQ.ico
     mobile_height: 40px
     mobile_width: 40px
 homepage_meta_tags:
@@ -22,7 +22,7 @@ homepage_meta_tags:
     meta_og_type: website
     meta_og_url: 'https://amqfundicion.netlify.app/'
     meta_og_image: >-
-      https://github.com/AMQFUNDICION/amqwebsite/blob/main/static/q.png
+      https://github.com/AMQFUNDICION/amqwebsite/blob/main/static/LOGO%20AMQ.ico
    
 menu:
   main:
