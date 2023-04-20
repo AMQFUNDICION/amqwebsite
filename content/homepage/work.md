@@ -2,7 +2,7 @@
 title: '¿QUIÉNES SOMOS?'
 weight: 1
 background: ''
-button: 'Conocenos'
+button: 'Conócenos'
 buttonLink: 'work'
 ---
 

@@ -15,8 +15,8 @@ params:
     desktop_height: 29px
     desktop_width: 217px
     mobile: q.png
-    mobile_height: 36px
-    mobile_width: 36px
+    mobile_height: 48px
+    mobile_width: 48px
 
 menu:
   main:
@@ -25,6 +25,9 @@ menu:
       weight: 1
     - name: Valores
       url: /post/
+      weight: 2
+    - name: Política de calidad 
+      url: /pc/
       weight: 3
     - name: Aleaciones 
       url: /services/
