@@ -6,15 +6,16 @@ title: Contacto
 {{< content-strip-left "/data" "contact.yaml" >}}
 </div>
 
-Ing. Orvid Rodríguez Vargas  
+ **Dirección** : Ing. Orvid Rodríguez Vargas
+
 Tel: 442 3355035
 
 
-Perla Rodríguez (Encargada de Calidad)
+**Calidad y compras**: Perla Rodríguez 
 
 Tel: 446 1504145 
 
-
+-------------------
 
 ### Correos: 
 
@@ -23,3 +24,18 @@ rodriguez.orvid@gmail.com
 amqaleaciones@gmail.com 
 
 -----------
+
+### Horarios de servicio
+
+
+
+| Día        |  Abre     | Cierra   |
+| :---:      |  :------: |  :-----: |
+| Lunes      | 8:30 am   | 7:00 pm  |
+| Martes     | 8:30 am   | 7:00 pm  |  
+| Miercoles  | 8:30 am   | 7:00 pm  |
+| Jueves     | 8:30 am   | 7:00 pm  |
+| Viernes    | 8:30 am   | 7:00 pm  |
+
+--------------------------
+#### Ubicación

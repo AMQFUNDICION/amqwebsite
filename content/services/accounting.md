@@ -11,7 +11,7 @@ weight: 1
 
 A continuación se muestra la composición química de nuestras aleaciones principales. Si el cliente requiere alguna modificación de la composición química o una aleación específica, favor de hacer la aclaración del requerimiento necesario para la cotización y elaboración del producto.
 
-![](/images/aleaciones.jpeg)
+![](/images/aleaciones1.jpeg)
 
 ## CARACTERÍSTICAS DEL EMPAQUE
 
