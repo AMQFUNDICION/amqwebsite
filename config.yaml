@@ -15,8 +15,8 @@ params:
     desktop_height: 29px
     desktop_width: 217px
     mobile: images/q.png
-    mobile_height: 48px
-    mobile_width: 48px
+    mobile_height: 40px
+    mobile_width: 40px
 homepage_meta_tags:
     meta_og_title: AMQ 
     meta_og_type: website
