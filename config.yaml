@@ -17,12 +17,6 @@ params:
     mobile: images/LOGO AMQ.ico
     mobile_height: 75px
     mobile_width: 167px
-assets: 
- favicon: "favicon_io/favicon.ico" 
- favicon16x16:  "favicon_io/16.png" 
- favicon32x32:  "favicon_io/32.png" 
- apple_touch_icon:  "favicon_io/apple.png" 
-   
 menu:
   main:
     - name: Misión y Visión
