@@ -17,12 +17,11 @@ params:
     mobile: images/LOGO AMQ.ico
     mobile_height: 75px
     mobile_width: 167px
-homepage_meta_tags:
-    meta_og_title: AMQ 
-    meta_og_type: website
-    meta_og_url: 'https://amqfundicion.netlify.app/'
-    meta_og_image: >-
-      https://github.com/AMQFUNDICION/amqwebsite/blob/main/static/LOGO%20AMQ.ico
+assets: 
+ favicon: "favicon_io/favicon.ico" 
+ favicon16x16:  "favicon_io/16.png" 
+ favicon32x32:  "favicon_io/32.png" 
+ apple_touch_icon:  "favicon_io/apple.png" 
    
 menu:
   main:
