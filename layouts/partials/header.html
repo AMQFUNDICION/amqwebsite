@@ -1,4 +1,8 @@
  <div class='header header-absolute'>
+   <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon_io/32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon_io/16.png">
+<link rel="manifest" href="favicon_io/site.webmanifest">  
   <div class="container">
     <div class="logo">
       <a href="{{ .Site.BaseURL }}"><img height={{ .Site.Params.logo.desktop_height }} width={{ .Site.Params.logo.mobile_width }} alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.desktop | relURL }}" /></a>
@@ -10,3 +14,6 @@
     {{ partial "hamburger.html" . }}
   </div>
 </div>
+
+
+    
